@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-redplc-rpi-mcp23008",
-  "version": "1.0.9",
-  "description": "redPlc mcp23008 Module",
+  "version": "1.0.10",
+  "description": "Node-Red node for mcp23008",
 
   "dependencies": {
   },
